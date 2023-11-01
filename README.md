@@ -20,7 +20,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1-9DiVneY80qyeqB3tEy7Nsay3sICZ4F_/view?usp=sharing](https://drive.google.com/file/d/1-9DiVneY80qyeqB3tEy7Nsay3sICZ4F_/view?usp=sharing)
 
 - ⚡ Fun fact **i think i am so lazy with curiostic personality**
-
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alokgarg561a16196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alokgarg561a16196" height="30" width="40" /></a>
