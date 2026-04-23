@@ -1,234 +1,99 @@
-# 👋 Hi, I’m Alok Garg  
-### Application Support Engineer @ Capgemini → Java Backend Developer  
-**Java | Spring Boot | Microservices | AWS | Production Systems**
+# Hi, I'm Alok Garg
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-brightgreen)](https://alok-garg-003.lovable.app/)
+### Site Reliability Engineer | Production Support | Incident Response | Reliability Automation
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/alok-garg-561a16196/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/alokgarg003)
-[![Blog](https://img.shields.io/badge/Blog-Read-orange)](https://freementorsin.blogspot.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-success)](https://alok-garg-003.lovable.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-alokgarg003-black)](https://github.com/alokgarg003)
 
----
+I work on production systems where uptime, fast recovery, and root-cause clarity matter.
 
-## 🚀 Professional Summary
+Currently, I support mission-critical Managed File Transfer systems for Royal Mail Group at Capgemini, with hands-on experience in Linux operations, P1/P2 incident handling, alert tuning, shell automation, and cross-team service restoration.
 
-I am an **Application Support Engineer at Capgemini** with **1+ years of real-world production experience** supporting **mission-critical Managed File Transfer (MFT) systems** for **Royal Mail Group (UK)**.
+## Professional Summary
 
-My background combines:
-- **High-pressure production support (P1/P2 incidents)**
-- **Automation and RCA-driven improvements**
-- **Hands-on Java & Spring Boot backend development**
+- 1.5+ years of industry experience in production support and operations
+- Strong exposure to incident response, log analysis, and service recovery
+- Improved operational signal quality through alert cleanup and automation
+- Comfortable working across application, infrastructure, and support workflows
+- Backend development experience with Java, Spring Boot, REST APIs, and microservices
 
-I am now actively transitioning into **Java Backend Developer roles**, bringing **enterprise reliability mindset + modern backend engineering skills**.
+## Current Experience
 
----
-
-## 💼 Current Role
-
-### Application Support Engineer — Capgemini  
-**Oct 2024 – Present | Noida, India (Hybrid)**  
+### Application Support Engineer - Capgemini
+**Oct 2024 - Present | Noida, India**
 **Client:** Royal Mail Group (UK)
 
-**Key Impact**
-- Resolved **150+ production incidents weekly** across **10+ Linux servers**
-- Led **P1/P2 bridge calls** with structured debugging and cross-team coordination
+- Resolve **150+ production incidents weekly** across **10+ Linux servers**
+- Lead **P1/P2 bridge calls** with structured debugging and stakeholder coordination
 - Reduced **false alerts by 50%** through shell automation
-- Eliminated **~40% non-actionable alerts** via RCA and monitoring cleanup
+- Eliminated **~40% non-actionable alerts** through RCA and monitoring cleanup
+- Created an internal **Error Catalogue** to document recurring failures, fixes, and recovery steps
+- Worked closely with infra, backend, and monitoring teams to drive permanent resolution
 
-**Responsibilities**
-- L1/L2 support for mission-critical **GoAnywhere MFT** systems  
-- Real-time incident handling, log analysis, and service restoration  
-- Created a structured **Error Catalogue** documenting root causes and fixes  
-- Collaborated with infra, backend, and monitoring teams for permanent resolutions  
+## Reliability Strengths
 
-**Tech Environment**
-`Linux` · `ServiceNow` · `GoAnywhere MFT` · `Shell Scripting` · `Azure` · `Jenkins` ·  
-`Bitbucket` · `Jira` · `Confluence` · `PuTTY` · `Axway`
+- Incident response and escalation handling
+- Production troubleshooting and service restoration
+- Root cause analysis and operational documentation
+- Monitoring cleanup and alert-noise reduction
+- Linux server operations and log-based debugging
+- Shell scripting and toil reduction
+- Cross-team communication during high-severity incidents
 
----
+## Tech Stack
 
-## 🧠 Engineering Experience (Development)
+`Linux` `Shell Scripting` `ServiceNow` `Jira` `Jenkins` `Azure` `AWS` `GoAnywhere MFT` `Bitbucket` `Confluence` `Java` `Spring Boot` `REST APIs`
 
-### Software Engineer Analyst — Capgemini (Internal Project)  
-**Oct 2024 – Present**
+## Selected Public Projects
 
-**Project:** **Turf Management System**  
-Enterprise-grade **microservices application** for managing turf bookings.
+### [TicketInsight Pro](https://github.com/alokgarg003/ticketinsight-pro)
+Open-source ticket analytics platform for IT support teams.
 
-**Contributions**
-- Developed backend microservices using **Spring Boot**
-- Implemented **API Gateway** and **Eureka Service Discovery**
-- Integrated services using **Feign Client**
-- Centralized exception handling with `@ControllerAdvice`
-- Built responsive frontend using **React + Material UI**
-- Wrote unit tests with **JUnit & Mockito**
+- Ticket analytics, anomaly detection, SLA tracking, and scheduled reporting
+- Docker-ready deployment and REST API design
+- Strongly aligned with IT operations and reliability workflows
 
----
+### [CareerForge](https://github.com/alokgarg003/careerforge)
+Full-stack engineering platform showing product design, data workflows, and CI discipline.
 
-## ☁️ Internship Experience
+- Next.js, TypeScript, Prisma, analytics, and workflow orchestration
+- Useful as evidence of engineering breadth beyond production support
 
-### Cloud Engineer Intern — Celebal Technologies  
-**Jul 2023 – Aug 2023 | Jaipur**
+### [Certificate Management System](https://github.com/alokgarg003/certificate)
+Secure full-stack application built with Spring Boot, React, and MySQL.
 
-- Hands-on exposure to **Microsoft Azure** cloud architecture  
-- Worked with **three-tier architecture, load balancers, networking**  
-- Improved website performance by reducing reload time  
-- Built strong fundamentals of cloud-native system design  
+- Authentication, authorization, API design, and backend implementation
+- Shows strong backend fundamentals that complement SRE work
 
----
+## Certifications
 
-### Software Developer Intern — Techobuild Pvt. Ltd.  
-**Jul 2022 – Aug 2022 | Hybrid**
+- Azure AI Engineer Associate (AI-102)
+- Azure Fundamentals (AZ-900)
+- AWS Generative AI Essentials
 
-- Built doctor appointment modules using **React + Material UI**
-- Implemented **Redux** for state management
-- Integrated REST APIs using **Axios**
-- Assisted with testing using **Selenium**
+## Current Focus
 
----
+I am positioning my career around:
 
-### Web Development Intern — Techobuild Pvt. Ltd.  
-**Jul 2021 – Jan 2022 | Hybrid**
+- Site Reliability Engineering
+- Production Support / Operations Engineering
+- Reliability Automation
+- Backend systems with strong operational ownership
 
-- Built responsive pages using **HTML, CSS, JavaScript, Bootstrap**
-- Enhanced UX with modals, animations, and interactive components
-- Gained early exposure to **React fundamentals**
-- Used GitHub for version control and collaboration
+I am actively strengthening my skills in observability, cloud operations, and reliability-focused engineering practices.
 
----
+## Open To
 
-## 🏗️ Featured Projects
+- Site Reliability Engineer
+- Production Support Engineer
+- Application Support Engineer
+- Platform / Operations-focused backend roles
 
-### 🟢 Turf Management System (2024)
-**Enterprise Microservices Application**
+## Contact
 
-- Spring Boot microservices architecture
-- API Gateway + Eureka Service Discovery
-- Feign Client for inter-service communication
-- Centralized error handling
-- Unit testing with JUnit & Mockito
-- React + Material UI frontend
+- Email: `alokgarg003@gmail.com`
+- LinkedIn: [linkedin.com/in/alok-garg-561a16196](https://linkedin.com/in/alok-garg-561a16196)
+- Portfolio: [alok-garg-003.lovable.app](https://alok-garg-003.lovable.app/)
 
-🔗 **Source Code:** GitHub  
-🔗 **Live Demo:** Available
-
----
-
-### 🎓 Online Certificate Management System (2024)
-**Full-Stack Secure Application**
-
-- JWT-based authentication & authorization
-- Role-Based Access Control (Admin/User)
-- RESTful APIs with Spring Boot
-- Hibernate & JPA for persistence
-- Spring Security integration
-- React frontend
-
-🔗 **Source Code:** GitHub  
-🔗 **Live Demo:** Available
-
----
-
-## 🛠️ Technical Skills
-
-### Backend
-- Java (Core, OOP, Collections, Streams, JVM)
-- Spring Boot, Spring MVC, Spring Security
-- Hibernate / JPA
-- REST API Design
-- Microservices Architecture
-
-### Frontend
-- React.js
-- JavaScript
-- Material UI
-- HTML5, CSS3, Bootstrap
-
-### Databases
-- MySQL
-- PostgreSQL
-- MongoDB
-- SQL
-
-### DevOps & Cloud
-- AWS (EC2, S3)
-- Azure
-- Docker (Basics)
-- CI/CD Pipelines
-- Git & GitHub
-
-### Testing & Tools
-- JUnit, Mockito
-- Selenium (Basic)
-- IntelliJ IDEA, VS Code
-- Postman
-- Jira, ServiceNow
-
----
-
-## ☕ Java Core Strengths (Interview-Ready)
-
-- OOP & SOLID principles  
-- Collections & Streams  
-- Exception Handling  
-- JVM Internals  
-- RESTful API Design  
-- Microservices Patterns  
-- Spring Framework Ecosystem  
-- Database Integration  
-
----
-
-## 📜 Certifications
-
-- **Azure AI Engineer Associate (AI-102)** — Microsoft  
-- **Azure Fundamentals (AZ-900)** — Microsoft  
-- **AWS Generative AI Essentials** — AWS  
-- **Software Engineer Intern** — HackerRank  
-- **React + Redux** — SoloLearn  
-
----
-
-## 🎓 Education
-
-**Post Graduate Diploma in Advanced Computing (PG-DAC)**  
-CDAC Bangalore | *Mar 2024 – Aug 2024*
-
-**B.Tech in Computer Science & Engineering**  
-Poornima Institute of Engineering & Technology, Jaipur  
-CGPA: **7.29 / 10** | *2019 – 2023*
-
----
-
-## 📊 Quick Stats
-
-- **Experience:** 1+ Year  
-- **Incidents Resolved:** 150+ / week  
-- **Alert Reduction:** 50%  
-- **Servers Managed:** 10+  
-- **Certifications:** 3 (Azure & AWS)
-
----
-
-## 🔍 What I’m Looking For
-
-Actively seeking:
-- **Java Backend Developer**
-- **Application Support Engineer**
-- **Technical Analyst**
-
-Roles where I can combine **production reliability + backend engineering**.  
-Immediate joiner.
-
----
-
-## 📫 Let’s Connect
-
-- 📧 **Email:** alokgarg003@gmail.com  
-- 💼 **LinkedIn:** https://linkedin.com/in/alok-garg-561a16196  
-- 💻 **GitHub:** https://github.com/alokgarg003  
-- 🌐 **Portfolio:** https://alok-garg-003.lovable.app  
-
----
-
-> *Production-tested engineer with a backend builder’s mindset.  
-Focused on scalable systems, clean code, and real-world impact.*
+> Production-tested engineer focused on reliable systems, calm incident handling, and continuous operational improvement.
